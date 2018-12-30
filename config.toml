@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     info = "APPS ENGINEER" # Author's job title or info.
     description = "Yusuke Ishimi's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/Photo_Pierre_DESMAZES.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "/images/Photo_Pierre_DESMAZES.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "Enter a text here." # Add footer content
     fixedbarContent = "Do you want to know me more private??" # Add fixedbar content
