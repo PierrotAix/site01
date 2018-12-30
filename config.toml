@@ -1,4 +1,4 @@
-baseurl = "https://PierrotAix.github.io/site01" # Hostname (and path) to the root.
+baseurl = "https://pierrotaix.github.io/site01/" # Hostname (and path) to the root.
 title = "Pierre  DESMAZES" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
