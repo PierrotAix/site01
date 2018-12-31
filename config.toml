@@ -17,17 +17,17 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [params] # theme parameters
     author = "Pierre DESMAZES" # Author's name.
     info = "APPS ENGINEER" # Author's job title or info.
-    description = "Yusuke Ishimi's personal website" # Site description.
+    description = "Pierre DESMAZES personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "/images/Photo_Pierre_DESMAZES.jpg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/photo_pierre.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "Enter a text here." # Add footer content
     fixedbarContent = "Do you want to know me more private??" # Add fixedbar content
     fixedbarContentAfter = "Thank You! Please share it if you like it?" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
@@ -49,19 +49,15 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://github.com/PierrotAix"
 [[params.social]]
-    name = "Twitter"
+    name = "LinkedIn"
     weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://www.linkedin.com/in/pierre-desmazes-1b7aa8/"
 [[params.social]]
-    name = "LinkedIn"
+    name = "Viadeo"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
-	[[params.social]]
-    name = "LinkedIn"
-    weight = 4
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "http://www.viadeo.com/p/00213pdaoslag710"
 
 # Menu links
 [[menu.main]]
